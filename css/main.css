@@ -1,3 +1,31 @@
-body {
-    font-family: 'gotham-';
+/* COMMON */
+body 
+.material-icons {
+    color: #F6F5F0;
+    font-size: 32px;
+    cursor: pointer;
+}
+/*header*/
+
+.dstrict-header-black {
+    width: 1531px;
+    height: 110px;
+    background: yellow;
+    position: relative;
+}
+.logo {
+    background-color: #000;
+    height: 109;
+    width: 174;}
+
+
+/*MAIN*/
+
+main {
+    font-family: "Gotham-Bold";
+    font-size: 100%;
+    margin-top: -110px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1400px;
 }
